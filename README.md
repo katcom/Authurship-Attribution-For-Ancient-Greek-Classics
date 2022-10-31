@@ -26,14 +26,17 @@ For our model, TF-IDF measurement is used as the representation of corpus. The N
 
 ### Random Forest
 #### Confusion Matrix for Random Forest Model
-![](https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/random_forest_confusion_matrix.png | width=200px)
+<img src="https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/random_forest_confusion_matrix.png" alt="random forest confusion matrix" width="200"/>
+
 
 #### Classification Performance Report
-![](https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/random_forest_report.PNG | width=200px)
+<img src="https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/random_forest_report.PNG" alt="random forest report" width="200"/>
 
 ### Naive Bayes
 ### Confusion Matrix for Random Forest Model
-![](https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/naive_bayes_confusion_matrix.png | width=200px)
+
+<img src="https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/naive_bayes_confusion_matrix.png" alt="naive bayes confusion matrix" width="200"/>
 
 ### Classification Performance Report
-![](https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/naive_bayes_report.PNG | width=200px)
+<img src="https://github.com/katcom/Authurship-Attribution-For-Ancient-Greek-Classics/blob/main/IMG/naive_bayes_report.PNG" alt="naive bayes report" width="200"/>
+
